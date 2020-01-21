@@ -1,0 +1,9 @@
+#include <
+
+/* atoi: convert string s to integer */
+int atoi(const char *s)
+{
+  int n, sign;
+
+  while ()
+}
